@@ -1,6 +1,101 @@
-.block1 {
+
+/* *{
+    outline: 1px solid red;
+} */
+
+.nav_bar {
     background-color: #BEFCB8;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 .fonction {
     margin: 0px 0px 0px 92px;
+}
+.icon {
+    margin-left: 500px;
+    padding: 20px;
+    
+}
+.section1 {
+    margin-left: 50px;
+    padding: 20px;
+    
+}
+.section2 {
+    background-color: #F6FFF5;
+    padding: 0px;
+    
+    
+    
+}
+.about_me {
+    padding: 10px;
+}
+.block1 {
+    text-align: center;
+    padding: 20px;
+
+}
+.couleur_text{
+    color: #61EB54;
+}
+.Progress_bar{
+    line-height: 7;
+    padding: 20px;
+}
+.section3 {
+    background-color: #61EB54;
+    padding: 30px;
+}
+.my_projets {
+    text-align: center;
+}
+.navbar {
+    background-color: #61EB54;
+    
+}
+.button_more{
+    text-align: center;
+    padding: 15px;
+}
+.section4{
+    background-color:#F6FFF5 ;
+    padding: 30px;
+}
+.section5{
+    border: white;
+}
+.menu_footer{
+    background-color: #61EB54;
+}
+.bloc0{
+    text-align: center;
+}
+.icon2{
+    background-color: #61EB54;
+    
+}
+.edit{
+    background-color: black;
+}
+.edit2 {
+    text-align: center;
+    color: white;
+}
+.navbar-nav{
+    margin-left: 40px;
+}
+.carousel-inner {
+    padding: 150px;
+    
+}
+.carou {
+    color: #1ad409;
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid #8AF580;
+}
+.idea {
+    text-align: center;
+    margin-top: 80px;
 }
